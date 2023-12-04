@@ -29,11 +29,5 @@ Description: This is a game I made using code that we built in class as a templa
 <img src="images/TriviaConsoleGameImage.png?raw=true"/>
 
 ---
-
-
-
-
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
