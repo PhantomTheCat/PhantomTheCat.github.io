@@ -4,7 +4,6 @@ description: > #Text below the picture (The br means line break or create new li
   About Me:
   <br> - I'm currently a transfer student at Columbia College Chicago with a Game Design Major.
   <br> - I have my Associate's from Minneapolis Community and Technical College.
-  <br>
   <a href="https://aidenmccallumportfolio.weebly.com/">View My Blog Page</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
