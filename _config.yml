@@ -1,10 +1,7 @@
-title: Aiden McCallum
-logo: "images/Profile Pic.jpg" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br>Portfolio for Aiden McCallum<br>
-  Second description 
-  <br><br>
+title: Aiden McCallum #Title
+logo: "images/Profile Pic.jpg" #Logo image path
+description: > #Text below the picture (The br means line break or create new line)
+  Programming Portfolio for Aiden McCallum <br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
