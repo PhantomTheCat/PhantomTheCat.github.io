@@ -2,17 +2,21 @@
 
 ---
 
-### Category Name 1 
+### Projects 
 
-[Project 1 Title](/sample_page)
+[A CATastrophe: A Murder Mystery (C# Console Version)](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[A CATastrophe: A Murder Mystery (WPF Version)](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Tip Calculator (C# Console Version)](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[MadLib Game (C# Console Version)](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
