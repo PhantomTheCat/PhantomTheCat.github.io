@@ -5,19 +5,19 @@
 ### Projects 
 
 [A CATastrophe: A Murder Mystery (C# Console Version)](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/CATastropheConsoleImage.png?raw=true"/>
 
 ---
 [A CATastrophe: A Murder Mystery (WPF Version)](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/CATastropheWPFImage.png?raw=true"/>
 
 ---
 [Tip Calculator (C# Console Version)](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/TipCalculatorConsoleImage.png?raw=true"/>
 
 ---
 [MadLib Game (C# Console Version)](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/MadLibGamePicture.png?raw=true"/>
 
 ---
 
