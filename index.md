@@ -6,22 +6,27 @@
 
 [A CATastrophe: A Murder Mystery (C# Console Version)](/sample_page)
 <img src="images/CATastropheConsoleImage.png?raw=true"/>
+Description: Is a murder mystery game that I made, where the player moves around rooms, finds evidence, and interrogates family members to find the murderer. It is also run in a loop that will tell the amount of turns left to the player, and if they cannot find the murderer in that turn limit, they lose. One of the biggest challenges that I overcame was incorporating random, where I made it so that, depending on circumstances, the player gets random responses from the suspects.
 
 ---
 [A CATastrophe: A Murder Mystery (WPF Version)](/pdf/sample_presentation.pdf)
 <img src="images/CATastropheWPFImage.png?raw=true"/>
+Description: Is the WPF translated version of the murder mystery game that I made, where it shows that I know how to work with WPF.
 
 ---
 [Tip Calculator (C# Console Version)](http://example.com/)
 <img src="images/TipCalculatorConsoleImage.png?raw=true"/>
+Description: A programming project that I made for fun, where it calculates the tip based on certain factors, such as if the user liked the service.
 
 ---
 [MadLib Game (C# Console Version)](http://example.com/)
 <img src="images/MadLibGamePicture.png?raw=true"/>
+Description: Another programming project that I made for fun that will get input from player and display that information in a custom sentence. It's really basic because it was one of the first projects I made, where it shows that I know string interpolation.
 
 ---
 [Trivia Game (C# Console Version)](http://example.com/)
 <img src="images/TriviaConsoleGameImage.png?raw=true"/>
+Description: This is a game I made using code that we built in class as a template, where I added colors and custom borders to the features.
 
 ---
 
