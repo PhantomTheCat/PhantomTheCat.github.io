@@ -5,7 +5,7 @@
 ### Projects 
 
 **[A CATastrophe: A Murder Mystery (C# Console Version)](https://github.com/PhantomTheCat/CATastropheGame)** <br>
-Description: Is a murder mystery game that I made, where the player moves around rooms, finds evidence, and interrogates family members to find the murderer. It is also run in a loop that will tell the amount of turns left to the player, and if they cannot find the murderer in that turn limit, they lose. One of the biggest challenges that I overcame was incorporating random, where I made it so that, depending on circumstances, the player gets random responses from the suspects.
+Description: Is a murder mystery game that I made, where the player moves around rooms, finds evidence, and interrogates family members to find the murderer. It is also run in a loop that will tell the amount of turns left to the player, and if they cannot find the murderer in that turn limit, they lose. It also shows how I can use all the basic principles of Object-Oriented Programming, such as encapsulation, inheritance, and polymorphism. One of the biggest challenges that I overcame was incorporating random, where I made it so that, depending on circumstances, the player gets random responses from the suspects.
 <img src="images/CATastropheConsoleImage.png?raw=true"/>
 
 ---
