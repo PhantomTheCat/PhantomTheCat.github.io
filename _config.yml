@@ -1,8 +1,13 @@
 title: Aiden McCallum #Title
 logo: "images/Profile Pic.jpg" #Logo image path
 description: > #Text below the picture (The br means line break or create new line)
-  Programming Portfolio for Aiden McCallum <br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Programming Portfolio for Aiden McCallum
+  About Me:
+  <br> 
+  I'm currently a transfer student at Columbia College Chicago with a Game Design Major. I have my Associate's from Minneapolis Community and Technical College.
+  <br>
+  
+  <a href="https://aidenmccallumportfolio.weebly.com/">View My Blog Page</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
