@@ -20,6 +20,10 @@
 <img src="images/MadLibGamePicture.png?raw=true"/>
 
 ---
+[Trivia Game (C# Console Version)](http://example.com/)
+<img src="images/MadLibGamePicture.png?raw=true"/>
+
+---
 
 ### Category Name 2
 
