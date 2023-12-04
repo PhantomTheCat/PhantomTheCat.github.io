@@ -21,7 +21,7 @@
 
 ---
 [Trivia Game (C# Console Version)](http://example.com/)
-<img src="images/MadLibGamePicture.png?raw=true"/>
+<img src="images/TriviaConsoleGameImage.png?raw=true"/>
 
 ---
 
