@@ -1,11 +1,10 @@
 title: Aiden McCallum #Title
 logo: "images/Profile Pic.jpg" #Logo image path
 description: > #Text below the picture (The br means line break or create new line)
-  Programming Portfolio for Aiden McCallum
-  About Me:
-  <br> 
-  I'm currently a transfer student at Columbia College Chicago with a Game Design Major. I have my Associate's from Minneapolis Community and Technical College.
-  <br>
+  <br>Programming Portfolio for Aiden McCallum<br>
+  <br>About Me:<br>
+  <br> - I'm currently a transfer student at Columbia College Chicago with a Game Design Major.<br>
+  <br> - I have my Associate's from Minneapolis Community and Technical College.<br>
   
   <a href="https://aidenmccallumportfolio.weebly.com/">View My Blog Page</a> 
   
